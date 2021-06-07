@@ -1,1 +1,2 @@
-# Humor-level-detection
+# OpenGL
+Graphics Project
